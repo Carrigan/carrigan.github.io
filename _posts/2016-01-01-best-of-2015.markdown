@@ -1,0 +1,130 @@
+---
+layout:     post
+title:      "2015 In Review"
+subtitle:   ""
+date:       2016-01-01 12:00:00
+header-img: "img/busan-1.png"
+---
+
+My 2015 brought a _ton_ of change, and I am very happy with all of it. Using [a format similar to Michael
+Fogus's](http://blog.fogus.me/2015/12/29/the-best-things-and-stuff-of-2015/), I thought it would
+be cool to do a roundup of this year using my favorite things produced and consumed. While I don't
+track blog reading
+
+## 2015 In Pictures
+
+The single biggest event this year was getting married to my wonderful partner of over 5 years, Jennifer.
+
+![Wedding Picture](/img/jb_353.png)
+
+My work situation churned a lot this year, but am happy to say that it was worth it to get to my
+current position at SB.
+
+![Picture in SmashingBoxes shirt in Busan](/img/busan-3-19.jpg)
+
+After things settled down, we expanded our family with our first cat, Pancake.
+
+![Pancake](/img/pancake-3.png)
+
+## Languages Used
+
+Working in three environments this year, I probably used more languages in a single year for
+production code than I will ever use again. In order from most to least used, they are:
+
+- C
+- Ruby
+- Javascript
+- Python
+- Clojure
+- Typescript
+
+The winner of favorite language this year goes to Clojure. Right now, I am using it for an art project
+for downtown Durham and it is a blast.
+
+![Image of the art project being worked on](https://giant.gfycat.com/IdioticHarshCentipede.gif)
+
+## Favorite Books Read
+
+- **Mistborn Series**. This is definitely top of the list. Mistborn is a fantasy series by Brandon
+  Sanderson in a world where some are born with the ability to turn metals into superpowers. The main
+  characters are wonderful and the story is great.
+
+- **Shadow of the Wind**. Another novel, this is somewhat of a meta-book, a book about how powerful
+  books can be.
+
+- **Structure and Interpretation of Computer Programs**. I'll admit to only being in Chapter 3 at the
+  moment, but this is where I began learning Clojure. It is a great book to open up and work through
+  a problem or two while having coffee on a weekend morning.
+
+## Places Travelled
+
+- **Istanbul, Turkey**.
+  Visited on our honeymoon, and loved it. A great blend between Western and Islamic culture with great
+  food and tons to see.
+
+- **Santorini, Greece**.
+  The more romantic place we visited on our honeymoon. Santorini has beautiful views, sunsets, hikes,
+  and towns. The seafood and white wine here was superb.
+
+- **Athens, Greece**.
+  Athens has a lot to offer in historical terms, but we found that our 4 day stay there was a bit too
+  long. We found Athens to be quite hectic and run down. On the last day we took a ferry to Hydra,
+  which was more relaxing and scenic.
+
+- **Busan, South Korea**.
+  Traveled to Busan for 3 days for the IEEE Sensors conference. It was my first time in Asia, and I
+  really enjoyed it. The city itself was beautiful, with parks and beaches right in the downtown.
+  The food was good enough to where I started fermenting my own Kimchi when I got back!
+
+- **Nashville, Tennessee**.
+  Did a three day trip here for the Fourth of July. We went out two nights in the downtown area,
+  which is a sprawl of bars, each with a different band playing in them. Really great city if you
+  enjoy live music.
+
+- **Asheville, North Carolina**.
+  My favorite area in North Carolina since it reminds me of where I grew up. We went here several times
+  for getaways and with friends.
+
+## Conferences Attended
+
+- **Council for Entrepreneurial Development Tech Ventures 2015** _September 15 & 16, Raleigh NC_.
+  Presented on a lunchtime panel about data management for the Internet of Things.
+
+- **All Things Open** _October 19 & 20, Raleigh, NC_.
+  A great celebration of all things open source, from data to organizations. Would definitely recommend
+  folks who are interested in the Open Source community to check this out.
+
+- **IEEE Sensors 2015** _November 4th, Busan, South Korea_.
+  Presented on a lunchtime panel about sensor challenges for the Internet of Things.
+
+## Favorite Games Played
+
+- **Heroes of the Storm**.
+  As a long time DotA player, this game was really refreshing. Using talents instead of items and
+  having multiple maps where certain characters have more or less of an advantage makes for a much
+  more dynamic game.
+
+- **Rocket League**.
+  I only picked this up at the end of the year, but wish I had sooner. This game feels like what I
+  remember Mario Kart 64's battle mode felt like when I was a kid: a fast paced, competitive yet fun
+  driving action game.
+
+- **Puerto Rico**.
+  A 2-5 person board game that uses building and economy tactics. Random elements make every game feel
+  different, but do so in a more subtle way that makes it feel more fair than Catan or other games.
+
+- **Hearthstone**.
+  Always need two blizzard games in the list! I played a _lot_ of Magic growing up, and Hearthstone
+  is perfect for playing a quick strategy card game when in a crunch.
+
+- **Undertale**
+  A fantastic little RPG with witty dialog and a battle system that feels like an old platform game.
+  Definitely recommend this one.
+
+## Goals For 2016
+
+- Keep better track of blog posts and books read.
+- Get one piece of art in a public display
+- Make a single full-stack site using Clojure
+- Read Escher, Godel, Bach
+- Travel to Hawaii
