@@ -31,7 +31,7 @@ header-img: "img/header.png"
 
 - [Gengar Circuit Boards](https://github.com/Carrigan/Gengar) - For Halloween in 2013, I made a set of 10 Gengar circuitboards that blink randomly. These little guys have a pseudo-random number generator and run their program on a chip that has just 64 bytes of RAM.
 
-- **Business Card V2** - After a lot of feedback from the last business card, I have revised my USB mass storage device business card. Upgrades include a headerless programming interface as well as the USB connector built into the board. Boards are in production now, coming soon.
+- [USB Business Card (Part 2)]({% post_url 2013-07-01-usb-business-card-pt-2 %}) - After a lot of feedback from the last business card, I have revised my USB mass storage device business card. Upgrades include a headerless programming interface as well as the USB connector built into the board. Boards are in production now, coming soon.
 
 - **Genetic Algorithm For Optimizing A Blackjack Strategy** - Come read about how my computer played billions of hands of blackjack so I could (try to) win money! Working off of my previous experiment with Genetic Algorithms, this project was an experiment in how effective a genetic algorithm would be on a massive optimization problem with 4.562×10^192 unique solutions. As with the PID coefficient solver, the results were good for the amount of time the simulation took.
 
