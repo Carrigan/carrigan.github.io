@@ -33,7 +33,7 @@ header-img: "img/header.png"
 
 - [USB Business Card (Part 2)]({% post_url 2013-07-01-usb-business-card-pt-2 %}) - After a lot of feedback from the last business card, I have revised my USB mass storage device business card. Upgrades include a headerless programming interface as well as the USB connector built into the board. Boards are in production now, coming soon.
 
-- **Genetic Algorithm For Optimizing A Blackjack Strategy** - Come read about how my computer played billions of hands of blackjack so I could (try to) win money! Working off of my previous experiment with Genetic Algorithms, this project was an experiment in how effective a genetic algorithm would be on a massive optimization problem with 4.562×10^192 unique solutions. As with the PID coefficient solver, the results were good for the amount of time the simulation took.
+- [Evolutionary Blackjack]({% post_url 2013-04-01-evolutionary-blackjack %}) - Come read about how my computer played billions of hands of blackjack so I could (try to) win money! Working off of my previous experiment with Genetic Algorithms, this project was an experiment in how effective a genetic algorithm would be on a massive optimization problem with 4.562×10^192 unique solutions. As with the PID coefficient solver, the results were good for the amount of time the simulation took.
 
 ## 2012
 
