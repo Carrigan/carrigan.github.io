@@ -35,9 +35,7 @@ header-img: "img/header.png"
 
 ## 2012
 
-- **Genetic Algorithm to Solve for PID Controller Coefficients** - This project was an experiment to see how genetic algorithms could benefit microcontrollers. In this application, genetic algorithms were used to find the ideal coefficients for a hypothetical PID controller. Results were promising, and I hope to do more experimentation in the future.
-
-- **USB Business Card** - A business card should represent a person’s expertise. My expertise is in creating unique circuit boards, so to celebrate this I created a USB thumb drive circuit that contains my resume and contact information.
+- [USB Business Card]({% post_url 2012-07-01-usb-business-card-pt-1 %}) - A business card should represent a person’s expertise. My expertise is in creating unique circuit boards, so to celebrate this I created a USB thumb drive circuit that contains my resume and contact information.
 
 - [Reverse Geocache Wedding Gift]({% post_url 2012-01-01-reverse-geocache-project %}) - My brother got married this Spring, and so I made a reverse geocache puzzle to lock him out of his present. This puzzle
 told him how far he was from his present open, and I’m happy to report that his first day with his new wife was spent opening this box.
