@@ -9,6 +9,7 @@ twitter_username: bcarrigan
 github_username:  carrigan
 
 # Build settings
+gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: pygments
 permalink: pretty

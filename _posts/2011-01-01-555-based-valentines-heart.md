@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Valentines Blinky Heart"
-date:       2012-01-01 12:00:00
+date:       2011-01-01 12:00:00
 header-img: "img/header.png"
 ---
 
@@ -19,7 +19,7 @@ This year I decided to go with a little something different for valentines day. 
 
 Shown below is the circuit diagram for the EHeart.
 
-![](/img/heart_circuit.JPG)
+![](/img/heart_circuit.png)
 
 Let’s go piece by piece and examine what all of this is, and if this circuit is any good for other applications. First, the 9V battery is hooked up to the push button, which is hooked into a 5V regulator. This is why the circuit only runs when the button is pressed- when it is not depressed no current can flow from the battery. This is an excellent power switch since it does not allow standby loads and allows a very long battery life. Next is the 555 timer itself. The values for this are pretty much tweek-stimated, that is, I found whatever I could in the stock room and built according to that. I knew that I wanted approximately a .25s square wave, so I wound up going with a 94uF capacitor (well, two 47uF in parallel if you want to be specific) and 2k resistors. This gave an actual period of .38s, which is seen in the video above.
 
@@ -27,7 +27,7 @@ Let’s go piece by piece and examine what all of this is, and if this circuit i
 
 The output of a 555 timer is a simple square wave, meaning my device could have 2 states, when the output is high and when the output is low. I took advantage of this by hooking up 2 sets of LEDs as follows:
 
-![](/img/heart_out.JPG)
+![](/img/heart_out.png)
 
 In this circuit, we’ll call the upper LED and resistor LED1 and the lower set LED2. When the output is high, LED2 is turned on since there is 5V flowing to 0V, and LED1 is off since both terminals would be at 5V. When the output is low, LED1 turns on since the 5V at its anode can now go to ground, but LED2 turns off since it is grounded on both sides. Resistors should be changed depending on your LEDs; I used 100ohms here for the purple LEDs.
 Aesthetics

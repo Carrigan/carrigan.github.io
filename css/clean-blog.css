@@ -10,6 +10,12 @@ p {
 p a {
   text-decoration: underline;
 }
+li a {
+  text-decoration: underline;
+}
+.nav li a {
+  text-decoration: none;
+}
 h1,
 h2,
 h3,
