@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Elixir Lunch and Learn"
-subtitle:   ""
+subtitle:   "A Small Comparison Between Ruby and Elixir"
 date:       2016-09-20 12:00:00
 header-img: "img/elixir-code.png"
 ---

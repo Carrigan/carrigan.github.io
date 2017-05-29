@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Opensource.com Article"
-subtitle:   ""
+subtitle:   "How Open Source Enables Digital Art"
 date:       2016-10-06 12:00:00
 header-img: "img/leds.png"
 ---

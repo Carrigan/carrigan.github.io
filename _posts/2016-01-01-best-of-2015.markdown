@@ -123,7 +123,7 @@ for downtown Durham and it is a blast.
 
 ## Goals For 2016
 
-- Keep better track of blog posts and books read.
+- Keep better track of blog posts and books read
 - Get one piece of art in a public display
 - Make a single full-stack site using Clojure
 - Read Escher, Godel, Bach

@@ -8,6 +8,8 @@ header-img: "img/header.png"
 
 - [Moogfest 2017 Synth](https://github.com/smashingboxes/moogfest-2017) - For Moogfest this year, Smashing Boxes put on an event for festival-goers that showcased our recent labs projects. We wanted to give attendees something to leave with, so I set out to design a programmable synthesizer for $20 or less.
 
+- [Coffeebot]({% post_url 2017-02-14-coffeebot %}) - In order to combat stale coffee at the office, we made a device that tracks how long it has been since the last coffee was brewed and posts to a Slack channel when new coffee is ready.
+
 ## 2016
 
 
