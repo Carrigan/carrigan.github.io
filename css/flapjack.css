@@ -1,4 +1,9 @@
-#sitebody
-{
+#sitebody {
     background-image: url('http://imgur.com/hSriscR.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.well {
+    background-color: rgba(0,0,0,0.7) !important;    
 }
