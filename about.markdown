@@ -21,7 +21,7 @@ to focus more on that. After a few years, my wife and I made our way down to Nor
 solidified my C coding and started to branch out into other languages. I learned web development while
 working on [a real estate website](http://dropbuylabs.com/) with some friends, and decided to learn
 more about that part of the stack. I now do a mixture of web development, embedded engineering, and
-art for [SmashingBoxes](http://smashingboxes.com/), a creative digital agency in Downtown Durham.
+digital art out of Durham, NC on a freelance basis.
 
 When I'm not in front of a text editor, I love spending time with my wife and our cats, Pancake and
 Flapjack. I also enjoy playing guitar and bass, traveling, and playing tabletop and video games. When
