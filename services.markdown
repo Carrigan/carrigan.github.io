@@ -6,7 +6,7 @@ header-img: "img/header.png"
 
 My goal as a technologist is to satisfy human needs and generate business value through the use of technology. If you are an organization looking to expand your digital capabilities, I would love to work with you.
 
-My model as an independent consultant is to provide excellent services at a reasonable price. I work with a network of other freelancers to make sure that the right skills are available for any given job. In specific, my core competencies are:
+My model as an independent consultant is to provide high-quality services with no overhead. I work with a network of other freelancers to make sure that the right skills are available to meet your needs. In specific, my core competencies are:
 
 - Connected devices and IoT system integration.
 - Backend and systems development in several languages.
