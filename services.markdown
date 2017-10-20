@@ -13,4 +13,4 @@ My model as an independent consultant is to provide high-quality services with n
 - Electronics design, PCB layout, firmware, and production assistance.
 - Production grade devops and test frameworks.
 
-Please look through my projects and blog posts, and if you're interested in talking about how innovative technology can help you and your company, lets get in touch! You can reach me at [brian.c.carrigan@gmail.com](mailto:brian.c.carrigan@gmail.com) or through [my Linkedin](https://www.linkedin.com/in/briancarrigan).
+Please look through my projects and blog posts, and if you're interested in talking about how innovative technology can help you and your company, lets get in touch! You can reach me at [brian@bullcity.tech](mailto:brian@bullcity.tech) or through [my Linkedin](https://www.linkedin.com/in/briancarrigan).
