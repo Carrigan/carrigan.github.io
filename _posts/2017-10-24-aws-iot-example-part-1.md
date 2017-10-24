@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "AWS IoT Gateway Tutorial Part 1"
-subtitle:   "Defining Our Problem and Approach"
+title:      "AWS IoT Gateway Tutorial"
+subtitle:   "Part 1: Defining Our Problem and Approach"
 date:       2017-10-24 12:00:00
 header-img: "img/header.png"
 ---
