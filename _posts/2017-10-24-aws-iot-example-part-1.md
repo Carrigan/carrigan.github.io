@@ -1,4 +1,10 @@
-# AWS IoT Gateway Tutorial Part 1: System Idea and Architecture
+---
+layout:     post
+title:      "AWS IoT Gateway Tutorial Part 1"
+subtitle:   "Defining Our Problem and Approach"
+date:       2017-10-24 12:00:00
+header-img: "img/header.png"
+---
 
 I've recently been exploring the AWS IoT platform more and more and think that it can be very valuable in a lot of applications that use connected devices. It solves device authentication (via the device registry), being able to easily use the incoming data (via the rules engine and lambdas), and synchronization issues that may arise due to connectivity (via the device shadow). There is no silver bullet for the IoT since there are an endless number of use cases with different data rates, connectivity schemes, latency requirements, and processing capabilities, but AWS IoT seems like a solid, extensible tool to know for the right use cases.
 
