@@ -4,6 +4,10 @@ title: "Projects"
 header-img: "img/header.png"
 ---
 
+## 2018
+
+- [Wunderscan]({% post_url 2018-04-20-wunderscan %}) - Turning a broken down barcode scanner into an internet connected shopping list tool.
+
 ## 2017
 
 - [Moogfest 2017 Synth](https://github.com/smashingboxes/moogfest-2017) - For Moogfest this year, Smashing Boxes put on an event for festival-goers that showcased our recent labs projects. We wanted to give attendees something to leave with, so I set out to design a programmable synthesizer for $20 or less.
