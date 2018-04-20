@@ -23,8 +23,6 @@ This part of reverse engineering is really more luck than anything. You run the 
 
 Now that the part was powered and working, all that was left was finding the RS232 transmit line. I used my oscilloscope to do this part and found it by scanning items and looking for the signal. It was not long before this wire was found and I was able to receive UPC codes. The scanner simply sends the ASCII representation of the UPC code followed by the `\r\n` characters. This would make parsing the messages easy.
 
-![My Cat Flapjack Helping Out](/img/reverse_2.jpg)
-
 ## Posting to Wunderlist
 
 My wife and I use Wunderlist for our grocery shopping, so the next step for this project was to figure out how to post the item information to a shared grocery list. This consists of two parts: converting the UPC number to an item name, such as "16 Oz Almonds" and then making a request to Wunderlist with this information.
