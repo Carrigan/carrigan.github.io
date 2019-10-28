@@ -4,6 +4,10 @@ title: "Projects"
 header-img: "img/header.png"
 ---
 
+## 2019
+
+- [Dreadbot]({% post_url 2019-10-28-dreadbot %}) - Building a Discord bot for running a Magic: The Gathering format.
+
 ## 2018
 
 - [Wunderscan]({% post_url 2018-04-20-wunderscan %}) - Turning a broken down barcode scanner into an internet connected shopping list tool.

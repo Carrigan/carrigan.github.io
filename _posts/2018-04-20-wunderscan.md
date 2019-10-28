@@ -240,4 +240,4 @@ This was a fun project where I got to learn more about Nerves and designing 3D p
 
 ---
 
-If your company could use help launching an embedded product like this, I run an embedded product and IoT consulting firm that builds great projects like this for clients. For more information, please check out my [Services page](/services.html).
+If your company could use help launching an embedded product like this, I run a full-stack connected device consulting firm that builds great products for clients. For more information, please check out my [Services page](/services).
